@@ -1,5 +1,7 @@
 //string
 let a = 'Pham Nhu Hoang';
+// nhay don kep deu duoc, con muon chua dau nhay don kep thi sai dau ``
+console.log(a)
 //Number
 let b = 12;
 //Boolean
